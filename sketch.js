@@ -4,7 +4,7 @@ function setup() {
 
 function draw() {
 	background(50);
-	digitalClock();
+	// digitalClock();
 
 
 
