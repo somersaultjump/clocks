@@ -1,11 +1,10 @@
 function setup() {
-	createCanvas(600,600);
+	createCanvas(500,500,WEBGL);
 }
 
 function draw() {
 	background(50);
 	// digitalClock();
-
-
+	psClock();
 
 }
